@@ -7353,6 +7353,384 @@ val songRock = listOf(
             "Run, you can run\n" +
             "Tell my friend boy Willie Brown\n" +
             "And I'm standing at the crossroads\n" +
-            "Believe I'm sinking down", "\"Crossroads\" es una canción que ha adquirido un fuerte sentido simbólico a lo largo de los años. La letra describe a un hombre que llega a una encrucijada y se encuentra con el diablo, a quien le pide ayuda para tocar la guitarra. A cambio, el diablo le pide su alma. La canción ha sido interpretada como una alegoría de la lucha entre el bien y el mal, así como una metáfora de las tentaciones y decisiones difíciles que enfrentamos en la vida. La idea de una encrucijada también se ha utilizado como símbolo de la elección y la transición en la música, la literatura y la cultura en general.")
-
+            "Believe I'm sinking down", "\"Crossroads\" es una canción que ha adquirido un fuerte sentido simbólico a lo largo de los años. La letra describe a un hombre que llega a una encrucijada y se encuentra con el diablo, a quien le pide ayuda para tocar la guitarra. A cambio, el diablo le pide su alma. La canción ha sido interpretada como una alegoría de la lucha entre el bien y el mal, así como una metáfora de las tentaciones y decisiones difíciles que enfrentamos en la vida. La idea de una encrucijada también se ha utilizado como símbolo de la elección y la transición en la música, la literatura y la cultura en general."),
+    Song("Highway Star", "Deep Purple", "Machine Head", 1972, R.drawable.deep_purple, "Nobody gonna take my car\n" +
+            "I'm gonna race it to the ground\n" +
+            "Nobody gonna beat my car\n" +
+            "It's gonna break the speed of sound\n" +
+            "Ooh it's a killing machine\n" +
+            "It's got everything\n" +
+            "Like a driving power big fat tires\n" +
+            "And everything\n" +
+            "I love it and I need it\n" +
+            "I bleed it\n" +
+            "Yeah it's a wild hurricane\n" +
+            "Alright hold tight\n" +
+            "I'm a highway star\n" +
+            "Nobody gonna take my girl\n" +
+            "I'm gonna keep her to the end\n" +
+            "Nobody gonna have my girl\n" +
+            "She stays close on every bend\n" +
+            "Ooh she's a killing machine\n" +
+            "She's got everything\n" +
+            "Like a moving mouth body control\n" +
+            "And everything\n" +
+            "I love her I need her\n" +
+            "I seed her\n" +
+            "Yeah she turns me on\n" +
+            "Alright hold on tight\n" +
+            "I'm a highway star\n" +
+            "Nobody gonna take my head\n" +
+            "I got speed inside my brain\n" +
+            "Nobody gonna steal my head\n" +
+            "Now that I'm on the road again\n" +
+            "Ooh I'm in heaven again\n" +
+            "I've got everything\n" +
+            "Like a moving ground an open road\n" +
+            "And everything\n" +
+            "I love it and I need it\n" +
+            "I seed it\n" +
+            "Eight cylinders all mine\n" +
+            "Alright hold on tight\n" +
+            "I'm a highway star\n" +
+            "Nobody gonna take my car\n" +
+            "I'm gonna race it to the ground\n" +
+            "Nobody gonna beat my car\n" +
+            "It's gonna break the speed of sound\n" +
+            "Ooh it's a killing machine\n" +
+            "It's got everything\n" +
+            "Like a driving power big fat tires\n" +
+            "And everything\n" +
+            "I love it and I need it\n" +
+            "I bleed it\n" +
+            "Yeah it's a mad hurricane\n" +
+            "Alright hold on tight\n" +
+            "I'm a highway star\n" +
+            "I'm a highway star\n" +
+            "I'm a highway star", "Sentido simbólico: \"Highway Star\" es una canción que habla sobre la vida en la carretera, la velocidad y la sensación de libertad que se experimenta al conducir. También se interpreta como una metáfora sobre la búsqueda constante de la perfección y el éxito en la vida, representado por la imagen de una \"estrella de la carretera\" que nunca se detiene y siempre busca ir más allá de los límites. La canción se ha convertido en un himno del rock clásico y ha sido reconocida como una de las mejores canciones de guitarra de todos los tiempos."),
+    Song("The Trooper", "Iron Maiden", "Piece of Mind", 1983, R.drawable.iron_maiden, "You'll take my life, but I'll take yours too\n" +
+            "You'll fire your musket, but I'll run you through\n" +
+            "So when you're waiting for the next attack\n" +
+            "You'd better stand, there's no turning back\n" +
+            "The bugle sounds, the charge begins\n" +
+            "But on this battlefield, no one wins\n" +
+            "The smell of acrid smoke and horses' breath\n" +
+            "As I plunge on into certain death\n" +
+            "The horse, he sweats with fear, we break to run\n" +
+            "The mighty roar of the Russian guns\n" +
+            "And as we race towards the human wall\n" +
+            "The screams of pain as my comrades fall\n" +
+            "We hurdle bodies that lay on the ground\n" +
+            "And the Russians fire another round\n" +
+            "We get so near, yet so far away\n" +
+            "We won't live to fight another day\n" +
+            "We get so close, near enough to fight\n" +
+            "When a Russian gets me in his sights\n" +
+            "He pulls the trigger and I feel the blow\n" +
+            "A burst of rounds take my horse below\n" +
+            "And as I lay there gazing at the sky\n" +
+            "My body's numb and my throat is dry\n" +
+            "And as I lay forgotten and alone\n" +
+            "Without a tear, I draw my parting groan", ""),
+    Song("Whole Lotta Love", "Led Zeppelin", "The Song Remains the Same", 1969, R.drawable.led_zeppelin, "You need cooling\n" +
+            "Baby I'm not fooling\n" +
+            "I'm gonna send ya\n" +
+            "Back to schooling\n" +
+            "A-way down inside\n" +
+            "A-honey you need it\n" +
+            "I'm gonna give you my love\n" +
+            "I'm gonna give you my love\n" +
+            "Want to whole lotta love\n" +
+            "Want to whole lotta love\n" +
+            "Want to whole lotta love\n" +
+            "Want to whole lotta love\n" +
+            "You've been learning\n" +
+            "Um baby I been learning\n" +
+            "All them good times baby, baby\n" +
+            "I've been year-yearning\n" +
+            "A-way, way down inside\n" +
+            "A-honey you need-ah\n" +
+            "I'm gonna give you my love, ah\n" +
+            "I'm gonna give you my love, ah oh\n" +
+            "Whole lotta love\n" +
+            "Want to whole lotta love\n" +
+            "Want to whole lotta love\n" +
+            "Want to whole lotta love\n" +
+            "You've been cooling\n" +
+            "And baby I've been drooling\n" +
+            "All the good times, baby\n" +
+            "I've been misusing\n" +
+            "A-way, way down inside\n" +
+            "I'm gonna give ya my love\n" +
+            "I'm gonna give ya every inch of my love\n" +
+            "I'm gonna give ya my love\n" +
+            "Hey!\n" +
+            "Alright! Let's go!\n" +
+            "Whole lotta love\n" +
+            "Want to whole lotta love\n" +
+            "Want to whole lotta love\n" +
+            "Want to whole lotta love\n" +
+            "Way down inside\n" +
+            "Woman, you need, yeah\n" +
+            "Love\n" +
+            "My, my, my, my\n" +
+            "My, my, my, my\n" +
+            "Lord\n" +
+            "Shake for me girl\n" +
+            "I wanna be your backdoor man\n" +
+            "Hey, oh, hey, oh\n" +
+            "Hey, oh, hey, oh\n" +
+            "Ooh\n" +
+            "Oh, oh, oh, oh\n" +
+            "Cool, my, my baby\n" +
+            "A-keep it cooling baby\n" +
+            "A-keep it cooling baby\n" +
+            "Ah-keep it cooling baby\n" +
+            "Ah-keep it cooling baby\n" +
+            "Ah-keep it cooling baby", ""),
+    Song("Free Bird", "Lynyrd Skynyrd", "Pronounced 'lĕh-'nérd 'skin-'nérd", 1973, R.drawable.freebird, "If I leave here tomorrow\n" +
+            "Would you still remember me?\n" +
+            "For I must be traveling on now\n" +
+            "'Cause there's too many places I've got to see\n" +
+            "But if I stay here with you, girl\n" +
+            "Things just couldn't be the same\n" +
+            "'Cause I'm as free as a bird now\n" +
+            "And this bird you cannot change\n" +
+            "Oh, oh, oh, oh\n" +
+            "And the bird you cannot change\n" +
+            "And this bird, you cannot change\n" +
+            "Lord knows, I can't change\n" +
+            "Bye-bye baby, it's been sweet love, yeah, yeah\n" +
+            "Though this feelin' I can't change\n" +
+            "But please don't take it so badly\n" +
+            "'Cause Lord knows, I'm to blame\n" +
+            "But if I stay here with you, girl\n" +
+            "Things just couldn't be the same\n" +
+            "'Cause I'm as free as a bird now\n" +
+            "And this bird you cannot change\n" +
+            "Oh, oh, oh, oh\n" +
+            "And the bird you cannot change\n" +
+            "And this bird, you cannot change\n" +
+            "Lord knows, I can't change\n" +
+            "Lord help me, I can't change\n" +
+            "Lord, I can't change\n" +
+            "Won't you fly high, free bird, yeah", ""),
+    Song("Ace of Spades", "Motörhead", "Ace of Spades", 1980, R.drawable.ace_of_spades, "If you like to gamble\n" +
+            "I tell you, I'm your man\n" +
+            "You win some, lose some\n" +
+            "It's all the same to me\n" +
+            "The pleasure is to play\n" +
+            "Makes no difference what you say\n" +
+            "I don't share your greed\n" +
+            "The only card I need\n" +
+            "Is the Ace of Spades\n" +
+            "The Ace of Spades\n" +
+            "Playing for the high one\n" +
+            "Dancing with the devil\n" +
+            "Going with the flow\n" +
+            "It's all a game to me\n" +
+            "Seven or eleven\n" +
+            "Snake eyes watching you\n" +
+            "Double up or quit\n" +
+            "Double stake or split\n" +
+            "The Ace of Spades\n" +
+            "The Ace of Spades\n" +
+            "You know I'm born to lose\n" +
+            "And gambling's for fools\n" +
+            "But that's the way I like it, baby\n" +
+            "I don't want to live forever\n" +
+            "And don't forget the joker\n" +
+            "Pushing up the ante\n" +
+            "I know you got to see me\n" +
+            "Read 'em and weep\n" +
+            "The dead man's hand again\n" +
+            "I see it in your eyes\n" +
+            "Take one look and die\n" +
+            "The only thing you see\n" +
+            "You know it's gonna be\n" +
+            "The Ace of Spades\n" +
+            "The Ace of Spades, uh", "El “as de picas” que da nombre a la canción es la carta más valiosa de la baraja y la letra habla de ganar y perder, subir la apuesta o plantarse, aunque también hay referencias más difíciles de captar como el término “ante” del póker o las expresiones “seven or eleven” y “snake eyes” que son específicas de los dados."),
+    Song("Comfortably Numb", "Pink Floyd", "The Wall", 1979, R.drawable.pink_floyd, "Hello? (Hello? Hello? Hello?)\n" +
+            "Is there anybody in there?\n" +
+            "Just nod if you can hear me\n" +
+            "Is there anyone home?\n" +
+            "Come on now\n" +
+            "I hear you're feeling down\n" +
+            "Well I can ease your pain\n" +
+            "Get you on your feet again\n" +
+            "Relax\n" +
+            "I'll need some information first\n" +
+            "Just the basic facts\n" +
+            "Can you show me where it hurts?\n" +
+            "There is no pain you are receding\n" +
+            "A distant ship smoke on the horizon\n" +
+            "You are only coming through in waves\n" +
+            "Your lips move but I can't hear what you're saying\n" +
+            "When I was a child I had a fever\n" +
+            "My hands felt just like two balloons\n" +
+            "Now I've got that feeling once again\n" +
+            "I can't explain you would not understand\n" +
+            "This is not how I am\n" +
+            "I have become comfortably numb\n" +
+            "I have become comfortably numb\n" +
+            "Okay (okay, okay, okay)\n" +
+            "Just a little pinprick\n" +
+            "There'll be no more, ah\n" +
+            "But you may feel a little sick\n" +
+            "Can you stand up?\n" +
+            "I do believe it's working, good\n" +
+            "That'll keep you going through the show\n" +
+            "Come on it's time to go\n" +
+            "There is no pain you are receding\n" +
+            "A distant ship, smoke on the horizon\n" +
+            "You are only coming through in waves\n" +
+            "Your lips move but I can't hear what you're saying\n" +
+            "When I was a child\n" +
+            "I caught a fleeting glimpse\n" +
+            "Out of the corner of my eye\n" +
+            "I turned to look but it was gone\n" +
+            "I cannot put my finger on it now\n" +
+            "The child is grown\n" +
+            "The dream is gone\n" +
+            "I have become comfortably numb", ""),
+Song("Don't Stop Me Now", "Queen", "Bohemian Rhapsody", 1979, R.drawable.queen, "Tonight I'm gonna have myself a real good time\n" +
+        "I feel alive\n" +
+        "And the world I'll turn it inside out, yeah\n" +
+        "I'm floating around in ecstasy\n" +
+        "So, (don't stop me now)\n" +
+        "(Don't stop me)\n" +
+        "'Cause I'm having a good time, having a good time\n" +
+        "I'm a shooting star leaping through the sky like a tiger\n" +
+        "Defying the laws of gravity\n" +
+        "I'm a racing car passing by like Lady Godiva\n" +
+        "I'm gonna go, go, go, there's no stopping me\n" +
+        "I'm burnin' through the sky, yeah\n" +
+        "200 degrees, that's why they call me Mister Fahrenheit\n" +
+        "I'm travelling at the speed of light\n" +
+        "I wanna make a supersonic man out of you\n" +
+        "I'm having such a good time\n" +
+        "I'm having a ball\n" +
+        "(Don't stop me now)\n" +
+        "If you wanna have a good time\n" +
+        "Just give me a call\n" +
+        "(Don't stop me now)\n" +
+        "'Cause I'm having a good time\n" +
+        "(Don't stop me now)\n" +
+        "Yes, I'm havin' a good time\n" +
+        "I don't want to stop at all, yeah\n" +
+        "I'm a rocket ship on my way to Mars on a collision course\n" +
+        "I am a satellite I'm out of control\n" +
+        "I am a sex machine ready to reload like an atom bomb\n" +
+        "About to oh, oh, oh, oh, oh, explode\n" +
+        "I'm burnin' through the sky, yeah\n" +
+        "200 degrees, that's why they call me Mister Fahrenheit\n" +
+        "I'm travelling at the speed of light\n" +
+        "I wanna make a supersonic woman of you\n" +
+        "Hey, hey, hey\n" +
+        "(Don't stop me, don't stop me, ooh, ooh, ooh) I like it\n" +
+        "(Don't stop me, don't stop me) Have a good time, good time\n" +
+        "(Don't stop me, don't stop me) Woah\n" +
+        "Let loose, honey, all right\n" +
+        "Oh, I'm burnin' through the sky, yeah\n" +
+        "200 degrees, that's why they call me Mister Fahrenheit (hey)\n" +
+        "I'm travelling at the speed of light\n" +
+        "I wanna make a supersonic man out of you (hey, hey)\n" +
+        "I'm having such a good time\n" +
+        "I'm having a ball\n" +
+        "(Don't stop me now)\n" +
+        "If you wanna have a good time (ooh, alright)\n" +
+        "Just give me a call\n" +
+        "(Don't stop me now)\n" +
+        "'Cause I'm having a good time (hey, hey)\n" +
+        "(Don't stop me now)\n" +
+        "Yes, I'm havin' a good time\n" +
+        "I don't want to stop at all\n" +
+        "Ah, da, da, da, da\n" +
+        "Da, da, ah, ah\n" +
+        "Ah, da, da, ah, ah, ah\n" +
+        "Ah, da, da\n" +
+        "Ah, da, da, ah, ah\n" +
+        "Ooh, ooh-ooh, ooh-ooh", "“Don't Stop me Now” de Queen es la canción más feliz del mundo. La música es capaz de transmitir e intensificar una serie de emociones: la tristeza, la rabia, el amor y la alegría son solo algunos de los tantos sentimientos humanos que una pieza musical interpreta en diversidad de letras y ritmos."),
+    Song("London Calling", "The Clash", "London Calling", 1979, R.drawable.london_calling, "London calling to the faraway towns\n" +
+            "Now war is declared and battle come down\n" +
+            "London calling to the underworld\n" +
+            "Come out of the cupboard, you boys and girls\n" +
+            "London calling, now don't look to us\n" +
+            "Phony Beatlemania has bitten the dust\n" +
+            "London calling, see we ain't got no swing\n" +
+            "Except for the ring of the truncheon thing\n" +
+            "The ice age is coming, the sun's zooming in\n" +
+            "Meltdown expected, the wheat is growing thin\n" +
+            "Engines stop running, but I have no fear\n" +
+            "'Cause London is drowning\n" +
+            "I live by the river\n" +
+            "London calling to the imitation zone\n" +
+            "Forget it, brother, you can go it alone\n" +
+            "London calling to the zombies of death\n" +
+            "Quit holding out and draw another breath\n" +
+            "London calling and I don't want to shout\n" +
+            "But while we were talking, I saw you nodding out\n" +
+            "London calling, see we ain't got no high\n" +
+            "Except for that one with the yellowy eye\n" +
+            "The ice age is coming, the sun's zooming in\n" +
+            "Engines stop running, the wheat is growing thin\n" +
+            "A nuclear era, but I have no fear\n" +
+            "'Cause London is drowning\n" +
+            "I, I live by the river\n" +
+            "The ice age is coming, the sun's zooming in\n" +
+            "Engines stop running, the wheat is growing thin\n" +
+            "A nuclear era, but I have no fear\n" +
+            "'Cause London is drowning\n" +
+            "I, I live by the river\n" +
+            "Now get this\n" +
+            "London calling, yes, I was there, too\n" +
+            "And you know what they said? Well, some of it was true\n" +
+            "London calling at the top of the dial\n" +
+            "And after all this, won't you give me a smile?\n" +
+            "I never felt so much alike, alike, alike, alike", "La letra de \"London Calling\" relata la precaria situación de la banda en ese momento. Es un grito de \"socorro\" a la sociedad londinense y al mundo entero. Por aquel entonces THE CLASH estaban endeudados y sin un manager que le representara."),
+    Song("Gimme Shelter", "The Rolling Stones", "Let It Bleed", 1969, R.drawable.the_rolling_stones, "Ooh, a storm is threatening\n" +
+            "My very life today\n" +
+            "If I don't get some shelter\n" +
+            "Ooh yeah I'm gonna fade away\n" +
+            "War, children\n" +
+            "It's just a shot away\n" +
+            "It's just a shot away\n" +
+            "War, children\n" +
+            "It's just a shot away\n" +
+            "It's just a shot away\n" +
+            "Ooh, see the fire is sweepin'\n" +
+            "Our streets today\n" +
+            "Burns like a red coal carpet\n" +
+            "Mad bull lost its way\n" +
+            "War, children\n" +
+            "It's just a shot away\n" +
+            "It's just a shot away\n" +
+            "War, children\n" +
+            "It's just a shot away\n" +
+            "It's just a shot away\n" +
+            "Rape, murder, it's just a shot away\n" +
+            "It's just a shot away\n" +
+            "Rape, murder, yeah, it's just a shot away\n" +
+            "It's just a shot away\n" +
+            "Rape, murder, it's just a shot away\n" +
+            "It's just a shot away\n" +
+            "Mmm, a flood is threatening\n" +
+            "My very life today\n" +
+            "Gimme, gimme shelter\n" +
+            "Or I'm gonna fade away\n" +
+            "War, children\n" +
+            "It's just a shot away\n" +
+            "It's just a shot away\n" +
+            "It's just a shot away\n" +
+            "It's just a shot away\n" +
+            "It's just a shot away\n" +
+            "I tell you love, sister\n" +
+            "It's just a kiss away\n" +
+            "It's just a kiss away\n" +
+            "It's just a kiss away\n" +
+            "It's just a kiss away\n" +
+            "It's just a kiss away\n" +
+            "Kiss away, kiss away")
 )
+
+
