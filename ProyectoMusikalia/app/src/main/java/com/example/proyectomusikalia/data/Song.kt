@@ -7191,5 +7191,168 @@ val songRock = listOf(
             "(Highway to hell)\n" +
             "And I'm goin' down\n" +
             "All the way\n" +
-            "I'm on the highway to hell", "\"Highway to Hell\" es una canción que ha sido interpretada por muchos como una metáfora de la vida en la carretera como músico, y de los excesos y peligros que pueden acompañar ese estilo de vida. La letra habla de un viaje por una carretera que conduce al infierno, y ha sido interpretada por algunos como una crítica a la industria musical o a la sociedad en general por llevar a los artistas a un estilo de vida destructivo. También se ha interpretado como una reflexión sobre el destino final de la humanidad, y la posibilidad de que nuestras acciones nos lleven a la condenación eterna. En general, la canción se ha convertido en un himno del rock clásico y ha sido versionada y reinterpretada por muchos artistas a lo largo de los años.")
+            "I'm on the highway to hell", "\"Highway to Hell\" es una canción que ha sido interpretada por muchos como una metáfora de la vida en la carretera como músico, y de los excesos y peligros que pueden acompañar ese estilo de vida. La letra habla de un viaje por una carretera que conduce al infierno, y ha sido interpretada por algunos como una crítica a la industria musical o a la sociedad en general por llevar a los artistas a un estilo de vida destructivo. También se ha interpretado como una reflexión sobre el destino final de la humanidad, y la posibilidad de que nuestras acciones nos lleven a la condenación eterna. En general, la canción se ha convertido en un himno del rock clásico y ha sido versionada y reinterpretada por muchos artistas a lo largo de los años."),
+    Song("Walk This Way", "Aerosmith", "Toys in the Attic", 1975, R.drawable.aerosmith, "Backstroke lover always hidin' 'neath the cover\n" +
+            "'Till I talked to my daddy, he say\n" +
+            "He said, \"You ain't seen nothing\n" +
+            "'Till you're down on a muffin\n" +
+            "Then you're sure to be a-changin' your ways\"\n" +
+            "I met a cheerleader, was a real young bleeder\n" +
+            "All the times I can reminisce\n" +
+            "'Cause the best thing lovin' with her sister and her cousin\n" +
+            "Only started with a little kiss, like this\n" +
+            "See-saw swingin' with the boys in the school\n" +
+            "With your feet flyin' up in the air\n" +
+            "Singin' \"Hey diddle-diddle with the kitty in the middle\n" +
+            "Of the swing\" like I didn't care\n" +
+            "So I took a big chance at the high school dance\n" +
+            "With a missy who was ready to play\n" +
+            "Wasn't me she was foolin'\n" +
+            "'Cause she knew what she was doin'\n" +
+            "And I know love is here to stay\n" +
+            "When she told me to\n" +
+            "Walk this way, walk this way\n" +
+            "Walk this way, walk this way\n" +
+            "Walk this way, walk this way\n" +
+            "Walk this way, walk this way\n" +
+            "Ah, just give me a kiss\n" +
+            "Like this\n" +
+            "School girl sweetie with the classy kinda sassy\n" +
+            "Little skirt's climbin' way up her knees\n" +
+            "There was three young ladies in the school gym locker\n" +
+            "When I noticed they was lookin' at me\n" +
+            "I was a high school loser, never made it with a lady\n" +
+            "'Til the boys told me something I missed\n" +
+            "Then my next door neighbor with a daughter had a favor\n" +
+            "So I gave her just a little kiss, like this\n" +
+            "See-saw swingin' with the boys in the school\n" +
+            "With your feet flyin' up in the air\n" +
+            "Singin' \"Hey diddle-diddle with the kitty in the middle\n" +
+            "Of the swing\" like I didn't care\n" +
+            "So I took a big chance at the high school dance\n" +
+            "With a missy who was ready to play\n" +
+            "Wasn't me she was foolin'\n" +
+            "'Cause she knew what she was doin'\n" +
+            "When she told me how to walk this way\n" +
+            "She told me to\n" +
+            "Walk this way, walk this way\n" +
+            "Walk this way, walk this way\n" +
+            "Walk this way, walk this way\n" +
+            "Walk this way, talk this way\n" +
+            "Just give me a kiss\n" +
+            "Like this", "Sentido simbólico: \"Walk This Way\" es una canción que representa la fusión de dos géneros musicales diferentes: el rock y el rap. La colaboración entre Aerosmith y Run-DMC fue un momento histórico en la música y en la cultura popular en general, ya que marcó uno de los primeros casos de éxito en la colaboración intergénero. La canción habla de la importancia de tener confianza en uno mismo y seguir adelante con determinación, independientemente de las dificultades que puedan presentarse en el camino. El sentido simbólico de la canción, por lo tanto, se relaciona con la idea de la colaboración y la superación de las barreras culturales y musicales para lograr algo más grande juntos."),
+    Song("Paranoid", "Black Sabbath", "Paranoid", 1970, R.drawable.paranoid, "Finished with my woman 'cause\n" +
+            "She couldn't help me with my mind\n" +
+            "People think I'm insane because\n" +
+            "I am frowning all the time\n" +
+            "All day long I think of things\n" +
+            "But nothing seems to satisfy\n" +
+            "Think I'll lose my mind\n" +
+            "If I don't find something to pacify\n" +
+            "Can you help me\n" +
+            "Occupy my brain?\n" +
+            "Oh yeah\n" +
+            "I need someone to show me\n" +
+            "The things in life that I can't find\n" +
+            "I can't see the things that make\n" +
+            "True happiness, I must be blind\n" +
+            "Make a joke and I will sigh\n" +
+            "And you will laugh and I will cry\n" +
+            "Happiness I cannot feel\n" +
+            "And love to me is so unreal\n" +
+            "And so as you hear these words\n" +
+            "Telling you now of my state\n" +
+            "I tell you to enjoy life\n" +
+            "I wish I could but it's too late", "\"Paranoid\" es una canción que habla sobre el miedo y la ansiedad que siente alguien que cree que está siendo perseguido por algo o alguien. El tema simboliza los miedos e inquietudes que surgen en la mente de una persona y cómo estos pueden ser difíciles de superar. La canción ha sido descrita como un himno del heavy metal y ha sido citada como una de las canciones más influyentes e importantes del género."),
+    Song("Thunder Road", "Bruce Springsteen y E Street Band", "Live 1975-86", 1986, R.drawable.bruce_springsteen, "A screen door slams, Mary's dress sways\n" +
+            "Like a vision she dances across the porch\n" +
+            "As the radio plays\n" +
+            "Roy Orbison singing for the lonely\n" +
+            "Hey, that's me, and I want you only\n" +
+            "Don't turn me home again\n" +
+            "I just can't face myself alone again\n" +
+            "Don't run back inside, darling\n" +
+            "You know just what I'm here for\n" +
+            "So you're scared and you're thinking\n" +
+            "That maybe we ain't that young anymore\n" +
+            "Show a little faith, there's magic in the night\n" +
+            "You ain't a beauty but, hey, you're alright\n" +
+            "Oh, and that's alright with me\n" +
+            "You can hide 'neath your covers and study your pain\n" +
+            "Make crosses from your lovers, throw roses in the rain\n" +
+            "Waste your summer praying in vain\n" +
+            "For a savior to rise from these streets\n" +
+            "Well now I'm no hero, that's understood\n" +
+            "All the redemption I can offer, girl\n" +
+            "Is beneath this dirty hood\n" +
+            "With a chance to make it good somehow\n" +
+            "Hey, what else can we do now?\n" +
+            "Except roll down the window\n" +
+            "And let the wind blow back your hair\n" +
+            "Well, the night's busting open\n" +
+            "These two lanes will take us anywhere\n" +
+            "We got one last chance to make it real\n" +
+            "To trade in these wings on some wheels\n" +
+            "Climb in back, heaven's waiting down on the tracks\n" +
+            "Oh-oh, come take my hand\n" +
+            "We're riding out tonight to case the promised land\n" +
+            "Oh-oh, Thunder Road\n" +
+            "Oh, Thunder Road, oh, Thunder Road\n" +
+            "Lying out there like a killer in the sun\n" +
+            "Hey, I know it's late, we can make it if we run\n" +
+            "Oh-oh, Thunder Road\n" +
+            "Sit tight, take hold\n" +
+            "Thunder Road\n" +
+            "Well, I got this guitar\n" +
+            "And I learned how to make it talk\n" +
+            "And my car's out back\n" +
+            "If you're ready to take that long walk\n" +
+            "From your front porch to my front seat\n" +
+            "The door's open but the ride ain't free\n" +
+            "And I know you're lonely for words that I ain't spoken\n" +
+            "Tonight we'll be free, all the promises'll be broken\n" +
+            "There were ghosts in the eyes\n" +
+            "Of all the boys you sent away\n" +
+            "They haunt this dusty beach road\n" +
+            "On the skeleton frames of burned out Chevrolets\n" +
+            "They scream your name at night in the street\n" +
+            "Your graduation gown lies in rags at their feet\n" +
+            "And in the lonely cool before dawn\n" +
+            "You hear their engines roaring on\n" +
+            "When you get to the porch\n" +
+            "They're gone on the wind\n" +
+            "So Mary, climb in\n" +
+            "It's a town full of losers\n" +
+            "I'm pulling out of here to win", "La canción \"Thunder Road\" de Bruce Springsteen es una oda a la libertad y la escapada de la vida cotidiana. La letra se centra en una pareja que abandona todo lo que conocen para salir a la carretera y escapar de su vida pasada. El sentimiento de emoción y la sensación de libertad que se siente al dejar atrás todo lo que se conoce es el sentido simbólico principal de la canción. Además, \"Thunder Road\" es una canción sobre la juventud y la búsqueda de un futuro mejor, lo que ha hecho que se convierta en una canción icónica para toda una generación de fanáticos de la música rock."),
+    Song("Crossroads", "Cream", "Fresh Cream", 1966, R.drawable.cream, "I went down to the crossroads\n" +
+            "Fell down on my knees\n" +
+            "Down to the crossroads\n" +
+            "Fell down on my knees\n" +
+            "Asked the Lord above for mercy\n" +
+            "Take me, if you please\n" +
+            "I went down to the crossroads\n" +
+            "Tried to flag a ride\n" +
+            "Down to the crossroads\n" +
+            "Tried to flag a ride\n" +
+            "Nobody seemed to know me\n" +
+            "Everybody passed me by\n" +
+            "Well, I'm going down to Rosedale\n" +
+            "Take my rider by my side\n" +
+            "Going down to Rosedale\n" +
+            "Take my rider by my side\n" +
+            "You can still borrow a house, baby\n" +
+            "On the riverside\n" +
+            "Going down to Rosedale\n" +
+            "Take my rider by my side\n" +
+            "Going down to Rosedale\n" +
+            "Take my rider by my side\n" +
+            "You can still borrow a house, baby\n" +
+            "On the riverside\n" +
+            "You can run, you can run\n" +
+            "Tell my friend boy Willie Brown\n" +
+            "Run, you can run\n" +
+            "Tell my friend boy Willie Brown\n" +
+            "And I'm standing at the crossroads\n" +
+            "Believe I'm sinking down", "\"Crossroads\" es una canción que ha adquirido un fuerte sentido simbólico a lo largo de los años. La letra describe a un hombre que llega a una encrucijada y se encuentra con el diablo, a quien le pide ayuda para tocar la guitarra. A cambio, el diablo le pide su alma. La canción ha sido interpretada como una alegoría de la lucha entre el bien y el mal, así como una metáfora de las tentaciones y decisiones difíciles que enfrentamos en la vida. La idea de una encrucijada también se ha utilizado como símbolo de la elección y la transición en la música, la literatura y la cultura en general.")
+
 )
