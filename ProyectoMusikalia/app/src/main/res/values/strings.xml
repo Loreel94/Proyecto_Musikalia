@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MUSIKALIA</string>
+    <string name="genero_1">BLUES</string>
+    <string name="genero_2">DISCO</string>
+    <string name="genero_3">FLAMENCO</string>
+    <string name="genero_4">HIP HOP</string>
+    <string name="genero_5">METAL</string>
+    <string name="genero_6">REGGAETON</string>
+    <string name="genero_7">ROCK</string>
+    <string name="genero_8">TECHNO</string>
+    <string name="genero_9">BANDAS SONORAS</string>
+    <string name="genero_10">CLASICA</string>
+    <string name="genero_11">COUNTRY</string>
+    <string name="genero_12">JAZZ</string>
+    <string name="genero_13">POP</string>
+    <string name="genero_14">R&amp;B</string>
+    <string name="genero_15">SALSA</string>
+    <string name="genero_16">SOUL</string>
+    <string name="expand_button_content_description">Más información.</string>
+    <string name="gusto_genero">%s les gusta este género</string>
+    <string name="canciones">Canciones:</string>
+</resources>
