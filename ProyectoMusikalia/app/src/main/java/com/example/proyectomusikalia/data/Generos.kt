@@ -17,7 +17,7 @@ data class Generos(
 val generos = listOf(
     Generos(R.drawable.blues, R.string.genero_1, "19%", "Género musical que se originó en el sur de Estados Unidos y que se caracteriza por su melodía y su letra triste.",songBlues),
     Generos(R.drawable.disco, R.string.genero_2, "89%", "Se originó en la ciudad de Nueva York, Estados Unidos, a mediados de la década de 1970.", songDisco),
-    Generos(R.drawable.flamenco, R.string.genero_3, "24%", "Género musical y danza folclórica originario de Andalucía, una región del sur de España", songClasica),
+    Generos(R.drawable.flamenco, R.string.genero_3, "24%", "Género musical y danza folclórica originario de Andalucía, una región del sur de España", songFlamenco),
     Generos(R.drawable.hiphop, R.string.genero_4, "15,40%","Género musical que se originó en las comunidades afroamericanas y latinas de Nueva York.", songClasica),
     Generos(R.drawable.metal, R.string.genero_5, "28%", "Género musical que se caracteriza por el uso de guitarras eléctricas y baterías fuertes.", songClasica),
     Generos(R.drawable.reggeton, R.string.genero_6, "48%", "Género musical originario de Puerto Rico que combina el reggae, el hip hop y la música latina.", songClasica),

@@ -7407,7 +7407,7 @@ val songRock = listOf(
             "Alright hold on tight\n" +
             "I'm a highway star\n" +
             "I'm a highway star\n" +
-            "I'm a highway star", "Sentido simbólico: \"Highway Star\" es una canción que habla sobre la vida en la carretera, la velocidad y la sensación de libertad que se experimenta al conducir. También se interpreta como una metáfora sobre la búsqueda constante de la perfección y el éxito en la vida, representado por la imagen de una \"estrella de la carretera\" que nunca se detiene y siempre busca ir más allá de los límites. La canción se ha convertido en un himno del rock clásico y ha sido reconocida como una de las mejores canciones de guitarra de todos los tiempos."),
+            "I'm a highway star", "\"Highway Star\" es una canción que habla sobre la vida en la carretera, la velocidad y la sensación de libertad que se experimenta al conducir. También se interpreta como una metáfora sobre la búsqueda constante de la perfección y el éxito en la vida, representado por la imagen de una \"estrella de la carretera\" que nunca se detiene y siempre busca ir más allá de los límites. La canción se ha convertido en un himno del rock clásico y ha sido reconocida como una de las mejores canciones de guitarra de todos los tiempos."),
     Song("The Trooper", "Iron Maiden", "Piece of Mind", 1983, R.drawable.iron_maiden, "You'll take my life, but I'll take yours too\n" +
             "You'll fire your musket, but I'll run you through\n" +
             "So when you're waiting for the next attack\n" +
@@ -7431,7 +7431,7 @@ val songRock = listOf(
             "And as I lay there gazing at the sky\n" +
             "My body's numb and my throat is dry\n" +
             "And as I lay forgotten and alone\n" +
-            "Without a tear, I draw my parting groan", ""),
+            "Without a tear, I draw my parting groan", "\"The Trooper\" tiene un fuerte sentido simbólico en relación a la guerra, específicamente la Batalla de Balaclava durante la Guerra de Crimea. La letra de la canción cuenta la historia de un soldado que lucha en la guerra, y se enfoca en la valentía y la determinación necesarias para luchar en un conflicto armado. La canción también hace referencia a la carga de la Brigada Ligera, un momento icónico de la Batalla de Balaclava, y utiliza la imagen de un soldado montado en un caballo para simbolizar la valentía y la fuerza necesarias para enfrentar la adversidad."),
     Song("Whole Lotta Love", "Led Zeppelin", "The Song Remains the Same", 1969, R.drawable.led_zeppelin, "You need cooling\n" +
             "Baby I'm not fooling\n" +
             "I'm gonna send ya\n" +
@@ -7487,7 +7487,7 @@ val songRock = listOf(
             "A-keep it cooling baby\n" +
             "Ah-keep it cooling baby\n" +
             "Ah-keep it cooling baby\n" +
-            "Ah-keep it cooling baby", ""),
+            "Ah-keep it cooling baby", "\"Whole Lotta Love\" es una canción icónica de Led Zeppelin que es conocida por su riff de guitarra distintivo y su letra sexualmente sugerente. La canción es una celebración de la pasión y el deseo físico, y simboliza la liberación y el empoderamiento sexual. En muchos sentidos, la canción representa la actitud rebelde y hedonista del rock 'n' roll de la década de 1960, y sigue siendo una de las canciones más populares y veneradas del género hasta el día de hoy.\n"),
     Song("Free Bird", "Lynyrd Skynyrd", "Pronounced 'lĕh-'nérd 'skin-'nérd", 1973, R.drawable.freebird, "If I leave here tomorrow\n" +
             "Would you still remember me?\n" +
             "For I must be traveling on now\n" +
@@ -7514,7 +7514,7 @@ val songRock = listOf(
             "Lord knows, I can't change\n" +
             "Lord help me, I can't change\n" +
             "Lord, I can't change\n" +
-            "Won't you fly high, free bird, yeah", ""),
+            "Won't you fly high, free bird, yeah", "\"Free Bird\" es una canción que representa la libertad y la independencia, y ha sido interpretada como un himno para los espíritus libres y los amantes del rock clásico. La canción también es conocida por su larga guitarra solista final, que ha sido descrita como una de las mejores de todos los tiempos."),
     Song("Ace of Spades", "Motörhead", "Ace of Spades", 1980, R.drawable.ace_of_spades, "If you like to gamble\n" +
             "I tell you, I'm your man\n" +
             "You win some, lose some\n" +
@@ -7592,7 +7592,7 @@ val songRock = listOf(
             "I cannot put my finger on it now\n" +
             "The child is grown\n" +
             "The dream is gone\n" +
-            "I have become comfortably numb", ""),
+            "I have become comfortably numb", "La canción tiene un sentido simbólico complejo y subjetivo que puede ser interpretado de varias formas. En general, la letra de la canción habla de una sensación de desconexión emocional y la dificultad de sentirse presente en el mundo real. Muchos fans y críticos han interpretado la canción como una reflexión sobre la naturaleza alienante de la fama y la desconexión emocional que puede sentir una persona que se ha vuelto tan exitosa que se siente aislada del mundo en general. También se ha sugerido que la canción es una exploración de la naturaleza de la adicción y la lucha por liberarse de las drogas o de cualquier otra adicción emocional o física que pueda hacernos sentir \"cómodamente insensibles\"."),
 Song("Don't Stop Me Now", "Queen", "Bohemian Rhapsody", 1979, R.drawable.queen, "Tonight I'm gonna have myself a real good time\n" +
         "I feel alive\n" +
         "And the world I'll turn it inside out, yeah\n" +
@@ -7730,7 +7730,741 @@ Song("Don't Stop Me Now", "Queen", "Bohemian Rhapsody", 1979, R.drawable.queen, 
             "It's just a kiss away\n" +
             "It's just a kiss away\n" +
             "It's just a kiss away\n" +
-            "Kiss away, kiss away")
+            "Kiss away, kiss away", "La canción \"Gimme Shelter\" de los Rolling Stones es conocida por su sentido simbólico de la agitación social y política de la época en que fue escrita y lanzada. La letra habla de un mundo en caos y de la necesidad de encontrar un refugio seguro en medio de la violencia y la incertidumbre. La voz desgarradora de Merry Clayton en el coro, cantando \"Rape, murder! It's just a shot away!\" (\"Violación, asesinato! Está a un disparo de distancia!\") se convirtió en un grito de guerra para muchos en la lucha por la justicia social y contra la guerra en Vietnam. En resumen, la canción refleja el espíritu y la energía de la época en que fue creada, y sigue siendo un clásico y una poderosa expresión del deseo humano de encontrar seguridad y esperanza en tiempos difíciles.")
+)
+
+val songRock = listOf(
+    Song("Bulería", "David Bisbal", "Bulería", 2004, R.drawable.david_bisbal, "[Intro]\n" +
+            "Y ay, ay, ay\n" +
+            "Ah-ah\n" +
+            "Bulería, ay, bulería, bulería, bulería (¡Ole!)\n" +
+            "Venga, venga\n" +
+            "Que ta', que ta', que ta', que ta', que ta'\n" +
+            "Oye\n" +
+            "\n" +
+            "[Estribillo]\n" +
+            "Bulería, bulería, tan dentro del alma mía\n" +
+            "Es la sangre de la tierra en que nací\n" +
+            "Bulería, bulería, más te quiero cada día\n" +
+            "De ti vivo enamorado desde que te vi\n" +
+            "\n" +
+            "\n" +
+            "[Verso 1]\n" +
+            "Vengo, como loco por la vida\n" +
+            "Con el corazón latiendo porque sabe que tú estás\n" +
+            "Ay vida, que palpita de alegría\n" +
+            "Que me embriaga el sentimiento con tus besos más y más\n" +
+            "Ay tienes el embrujo de la luna\n" +
+            "La belleza de una rosa y la tibieza del mar\n" +
+            "Ay eres, vino dulce de las uvas\n" +
+            "Donde bebo con tus labios de la fuente para amar\n" +
+            "\n" +
+            "[Estribillo]\n" +
+            "Bulería, bulería, tan dentro del alma mía\n" +
+            "Es la sangre de la tierra en que nací (Que nací)\n" +
+            "Bulería, bulería, más te quiero cada día\n" +
+            "De ti vivo enamorado desde que te vi\n" +
+            "\n" +
+            "[Verso 2]\n" +
+            "Ganas, de vivir aquí a tu lado\n" +
+            "A tu cuerpo encadenado, hechizado de pasión\n" +
+            "Ay nada, sin tu amor yo no soy nada\n" +
+            "Soy un barco a la deriva que naufraga de dolor\n" +
+            "El perfume de tu aliento quiero respirar\n" +
+            "Y esa magia que hay en tu mirar\n" +
+            "Ser el héroe de tus sueños, todo y mucho más\n" +
+            "Quiero ser tu calma y tempestad\n" +
+            "\n" +
+            "You might also like\n" +
+            "Permítame Señora\n" +
+            "David Bisbal\n" +
+            "Probablemente\n" +
+            "Christian Nodal\n" +
+            "All Of The Girls You Loved Before\n" +
+            "Taylor Swift\n" +
+            "\n" +
+            "[Estribillo]\n" +
+            "Bulería, bulería, tan dentro del alma mía\n" +
+            "Es la sangre de la tierra en que nací\n" +
+            "Bulería, bulería, más te quiero cada día\n" +
+            "De ti vivo enamorado desde que te vi\n" +
+            "Bulería, bulería, tan dentro del alma mía\n" +
+            "Es la sangre de la tierra en que nací\n" +
+            "Bulería, bulería, más te quiero cada día\n" +
+            "De ti vivo enamorado desde que te vi\n" +
+            "\n" +
+            "[Puente]\n" +
+            "Mira, ¡sí!\n" +
+            "Oh, no, ay, ay, ay, ay\n" +
+            "Ay, ay, ay, ay\n" +
+            "\n" +
+            "[Verso 3]\n" +
+            "Acércate muy lento, déjate sentir\n" +
+            "Enciende ya este fuego que hay dentro de mi\n" +
+            "Ay, ay, ay, no me dejes sin tu amor\n" +
+            "Sin tus besos soy un pobre corazón\n" +
+            "Ay, ay, ay, no me dejes sin tu amor\n" +
+            "A tu lado no hay pesares, no hay dolor\n" +
+            "Ay, ay, ay, no me dejes sin tu amor\n" +
+            "Que tu recuerdo siempre va por donde voy\n" +
+            "\n" +
+            "[Pre-Estribillo]\n" +
+            "Ay virgencita del cielo, como la quiero\n" +
+            "Ella es la luna, ella es la luna, sin ella muero\n" +
+            "De rodillas yo te lo pido\n" +
+            "Dile que yo la estoy llamando\n" +
+            "Ya no quiero vivir solito\n" +
+            "Dime hasta cuando (¡Sí!)\n" +
+            "\n" +
+            "\n" +
+            "[Estribillo]\n" +
+            "Bulería, bulería, tan dentro del alma mía\n" +
+            "Es la sangre de la tierra en que nací (Que nací)\n" +
+            "Bulería, bulería, más te quiero cada día\n" +
+            "De ti vivo enamorado desde que te vi\n" +
+            "Bulería, bulería, tan dentro del alma mía\n" +
+            "Es la sangre de la tierra en que nací (Bulería)\n" +
+            "Bulería, bulería, más te quiero cada día\n" +
+            "De ti vivo enamorado desde que te vi\n" +
+            "\n" +
+            "[Outro]\n" +
+            "Bulería, bulería, yeah", "La \"bulería\" es un palo del flamenco que se caracteriza por su ritmo alegre y vivaz, y se suele bailar en fiestas y celebraciones. En la canción, Bisbal utiliza el término \"bulería\" como metáfora de la pasión y la emoción que siente al estar con la persona amada. La letra de la canción expresa la felicidad y el entusiasmo que le produce estar junto a esa persona, y la música refleja ese sentimiento a través de su ritmo animado y contagioso. En resumen, \"Bulería\" es una canción que celebra el amor y la alegría de vivir, y que utiliza la música y el simbolismo del flamenco para transmitir ese mensaje."),
+    Song("Volver", "Estrella Morente", "Mujeres", 2017, R.drawable.estrella_morente, "Yo adivino el parpadeo\n" +
+            "De las luces que a lo lejos\n" +
+            "Van marcando mi retorno\n" +
+            "Son las mismas que alumbraron\n" +
+            "Con sus pálidos reflejos\n" +
+            "Hondas horas de dolor\n" +
+            "\n" +
+            "Y aunque no quise el regreso\n" +
+            "Siempre se vuelve al primer amor\n" +
+            "La vieja calle donde el eco dijo\n" +
+            "Tuya es su vida, tuyo es su querer\n" +
+            "Bajo el burlón mirar de las estrellas\n" +
+            "Que con indiferencia\n" +
+            "Hoy me ven volver\n" +
+            "\n" +
+            "\n" +
+            "Volver...\n" +
+            "Con la frente marchita\n" +
+            "Las nieves del tiempo\n" +
+            "Platearon mi sien\n" +
+            "Sentir...\n" +
+            "Que es un soplo la vida\n" +
+            "Que veinte años no es nada\n" +
+            "Que febril la mirada\n" +
+            "Errante en la sombra\n" +
+            "Te busca y te nombra\n" +
+            "Vivir...\n" +
+            "Con el alma aferrada\n" +
+            "A un dulce recuerdo\n" +
+            "Que lloro otra vez\n" +
+            "\n" +
+            "Tengo miedo del encuentro\n" +
+            "Con el pasado que vuelve\n" +
+            "A enfrentarse con mi vida...\n" +
+            "Tengo miedo de las noches\n" +
+            "Que pobladas de recuerdos\n" +
+            "Encadenan mi soñar...\n" +
+            "\n" +
+            "Pero el viajero que huye\n" +
+            "Tarde o temprano detiene su andar...\n" +
+            "Y aunque el olvido, que todo destruye\n" +
+            "Haya matado mi vieja ilusión\n" +
+            "Guardo escondida una esperanza humilde\n" +
+            "Que es toda la fortuna de mi corazón", "\"Volver\" es una canción que habla sobre el deseo de regresar a los lugares y momentos que fueron importantes en el pasado, pero que ya no están presentes. La letra evoca una nostalgia por esos recuerdos que nos transportan a un lugar y tiempo diferente, y que nos hacen sentir vivos. Esta canción es un homenaje a la famosa canción \"Volver\" de Carlos Gardel, y la interpretación de Estrella Morente es una versión moderna y emotiva que busca conectar con el público a través de la emotividad de su voz y la pasión de su interpretación. En este sentido, \"Volver\" es una canción que invita a la reflexión sobre la importancia de valorar y disfrutar cada momento presente, ya que en un futuro podríamos anhelar volver a vivirlos."),
+    Song("La Leyenda del Tiempo", "Camarón de la Isla", "La Leyenda del Tiempo", 1979, r.drawable.camaron_de_la_isla, "[Coro]\n" +
+            "El sueño va sobre el tiempo\n" +
+            "Flotando como un velero, flotando como un velero\n" +
+            "Nadie puede abrir semillas\n" +
+            "En el corazón del sueño, en el corazón del sueño\n" +
+            "\n" +
+            "[Verso 1]\n" +
+            "El tiempo va sobre el sueño\n" +
+            "Hundido hasta los cabellos, hundido hasta los cabellos\n" +
+            "Ayer y mañana comen\n" +
+            "Oscuras flores de duelo, oscuras flores de duelo\n" +
+            "\n" +
+            "\n" +
+            "[Coro]\n" +
+            "El sueño va sobre el tiempo\n" +
+            "Flotando como un velero, flotando como un velero\n" +
+            "Nadie puede abrir semillas\n" +
+            "En el corazón del sueño, en el corazón del sueño\n" +
+            "\n" +
+            "[Solo Instrumental]\n" +
+            "\n" +
+            "[Verso 2]\n" +
+            "Sobre la misma columna\n" +
+            "Abrazados sueño y tiempo, abrazados sueño y tiempo\n" +
+            "Cruza el gemido del niño\n" +
+            "La lengua rota del viejo, la lengua rota del viejo\n" +
+            "\n" +
+            "[Coro]\n" +
+            "El sueño va sobre el tiempo\n" +
+            "Flotando como un velero, flotando como un velero\n" +
+            "Nadie puede abrir semillas\n" +
+            "En el corazón del sueño, en el corazón del sueño\n" +
+            "\n" +
+            "[Solo Instrumental]\n" +
+            "\n" +
+            "[Verso 3]\n" +
+            "Y si el sueño finge muros\n" +
+            "En la llanura del tiempo, en la llanura del tiempo\n" +
+            "El tiempo le hace creer\n" +
+            "Que nace en aquel momento, que nace en aquel momento\n" +
+            "\n" +
+            "You might also like\n" +
+            "Sentado En El Valle (Fandangos De Huelva)\n" +
+            "Camarón De La Isla\n" +
+            "Sin Motivos Ni Razón (Fandangos)\n" +
+            "Camarón De La Isla\n" +
+            "Como Si Fuera Un Castillo (Fandangos)\n" +
+            "Camarón De La Isla\n" +
+            "\n" +
+            "[Coro]\n" +
+            "El sueño va sobre el tiempo\n" +
+            "Flotando como un velero, flotando como un velero\n" +
+            "Nadie puede abrir semillas\n" +
+            "En el corazón del sueño, en el corazón del sueño\n" +
+            "\n" +
+            "[Outro Instrumental]", "\"La Leyenda del Tiempo\" es una canción emblemática del flamenco y de la cultura española en general. La letra habla del tiempo como un elemento mítico y atemporal que se mueve a su propio ritmo y que puede ser un aliado o un enemigo para aquellos que lo enfrentan. El sentido simbólico de la canción radica en la forma en que Camarón de la Isla utiliza el lenguaje poético para explorar temas universales como el amor, la muerte, el destino y la trascendencia. Además, la canción es considerada un hito en la carrera de Camarón de la Isla y en la historia del flamenco, ya que supuso una innovación en la música flamenca al incorporar elementos de jazz y rock progresivo, y al experimentar con nuevos arreglos y texturas sonoras."),
+    Song("Entre Dos Aguas", "Paco de Lucía", "Fuente y Caudal", 1973, R.drawable.paco_de_lucia, "Intrumental", "\"Entre Dos Aguas\" es una pieza musical icónica en la historia del flamenco. La guitarra flamenca de Paco de Lucía en esta canción combina elementos del flamenco tradicional con elementos más contemporáneos del jazz y la música latina. Esta fusión simboliza la evolución y la innovación en el mundo del flamenco, y ha sido un punto de referencia para otros músicos que han intentado mezclar diferentes estilos en su música. Además, la música evoca la sensación de estar en un lugar entre dos ríos, entre dos mundos, y esta sensación se refleja en el título de la canción."),
+    Song("Aire", "Niña Pastori", "Esperando Verte", 2009, R.drawable.niña_pastori, "Desesperado ya de andar va caminando\n" +
+            "\n" +
+            "a algun lugar junto a la barra de\n" +
+            "aquel bar,\n" +
+            "ha preferio descansar,su rostro\n" +
+            "refrlejaba poco a poco desesperacion\n" +
+            "y no le sacia ya la vida y su sabor...\n" +
+            "desesperado ya de andar va caminando\n" +
+            "a algun lugar,junto ala barra de aquel\n" +
+            "bar apreferio descansar, su rostro\n" +
+            "reflejaba poco a poco, desesperacion\n" +
+            "y no le sacia ya la vida y su sabor..\n" +
+            "\n" +
+            "aire quiero un aire nuevo que le\n" +
+            "\n" +
+            "devuelva la vida, salir de este infierno\n" +
+            "mundo quiero un mundo nuevo,por que le\n" +
+            "esta matando no encuentra remedio...\n" +
+            "\n" +
+            "nananannannaananananaanannaana\n" +
+            "\n" +
+            "\n" +
+            "y conel dia a dia a dia sigue\n" +
+            "\n" +
+            "aumentando su agonia,y con la\n" +
+            "mirada perdia esta mas lejos la salia\n" +
+            "guarda el cariño en un cajon vence s su\n" +
+            "sueños y al amor,vuela sin alas sin\n" +
+            "descanso y con temor,\n" +
+            "y con el dia a dia a dia,sigue\n" +
+            "aumentando su agonia y con la mirada\n" +
+            "perdia esta mAS LEJOS la salia,\n" +
+            "guarda el cariño en un cajon ,\n" +
+            "vence a sus sueños y al amor,\n" +
+            "vuela sin alas ,sin descanso\n" +
+            "y con temor....\n" +
+            "\n" +
+            "aire quiero un aire nuevo que le\n" +
+            "\n" +
+            "devuelva la vida salir de este\n" +
+            "infierno..\n" +
+            "mundo quiero un mundo nuevo porque\n" +
+            "le esta matando no encuentra remedio..\n" +
+            "\n" +
+            "aire quiero un aire nuevo que le\n" +
+            "devuelva la vida salir de este\n" +
+            "infierno...\n" +
+            "mundo quiero un mundo nuevo porque\n" +
+            "le esta matando no encuentra remedio\n" +
+            "\n" +
+            "\n" +
+            "aire quiero un aire nuevo que le\n" +
+            "\n" +
+            "devuelva la vida salir de este\n" +
+            "infierno...\n" +
+            "mundo quiero un mundo nuevo porque\n" +
+            "le esta matando no encuentra remedio\n" +
+            "\n" +
+            "aire quiero un aire nuevo que le\n" +
+            "devuelva la vida salir de este\n" +
+            "infierno...\n" +
+            "mundo quiero un mundo nuevo porque\n" +
+            "le esta matando...\n" +
+            "\n" +
+            "\n" +
+            "no encuentra remedio...", "\"Aire\" es una canción que habla de la libertad y la necesidad de liberarse de las ataduras para poder vivir plenamente. El aire se convierte en una metáfora de esta libertad, representando la fuerza y la energía que necesitamos para alcanzar nuestros sueños. La letra también hace referencia a la importancia de vivir el presente y disfrutar de la vida, sin preocuparnos demasiado por el futuro. En resumen, \"Aire\" es una canción que nos invita a ser libres y a vivir sin miedo, aprovechando cada momento al máximo."),
+Song("Sevillanas del adiós", "Los del Río", "Macarena Mix", 1996, R.drawable.los_del_rio, "1)\n" +
+        "Algo se muere en el alma, cuando un amigo se va\n" +
+        "\n" +
+        "Cuando un amigo se va, algo se muere en el alma\n" +
+        "Cuando un amigo se va\n" +
+        "Algo se muere en el alma, cuando un amigo se va\n" +
+        "\n" +
+        "Cuando un amigo se va, y va dejando una huella\n" +
+        "Que no se puede borrar\n" +
+        "Y va dejando una huella, que no se puede borrar\n" +
+        "\n" +
+        "No te vayas todavía, no te vayas por favor\n" +
+        "No te vayas todavía\n" +
+        "Que hasta la guitarra mía, llora cuando dice adiós\n" +
+        "\n" +
+        "2)\n" +
+        "Un pañuelo de silencio, a la hora de partir\n" +
+        "\n" +
+        "A la hora de partir, un pañuelo de silencio\n" +
+        "A la hora de partir\n" +
+        "Un pañuelo de silencio, a la hora de partir\n" +
+        "\n" +
+        "A la hora de partir, porque hay palabras que hieren\n" +
+        "Y no se deben decir\n" +
+        "Porque hay palabras que hieren, y no se deben decir\n" +
+        "\n" +
+        "No te vayas todavía, no te vayas por favor\n" +
+        "No te vayas todavía\n" +
+        "Que hasta la guitarra mía, llora cuando dice adiós\n" +
+        "\n" +
+        "3)\n" +
+        "El barco se hace pequeño, cuando se aleja en el mar\n" +
+        "\n" +
+        "Cuando se aleja en el mar, el barco se hace pequeño\n" +
+        "Cuando se aleja en el mar\n" +
+        "El barco se hace pequeño, cuando se aleja en el mar\n" +
+        "\n" +
+        "Cuando se aleja en el mar, y cuando se va perdiendo\n" +
+        "Que grande es la soledad\n" +
+        "Y cuando se va perdiendo, que grande es la soledad\n" +
+        "\n" +
+        "No te vayas todavía, no te vayas por favor\n" +
+        "No te vayas todavía\n" +
+        "Que hasta la guitarra mía, llora cuando dice adiós\n" +
+        "\n" +
+        "4)\n" +
+        "Ese vacio que deja, el amigo que se va\n" +
+        "\n" +
+        "El amigo que se va, ese vacio que deja\n" +
+        "El amigo que se va\n" +
+        "Ese vacio que deja, el amigo que se va\n" +
+        "\n" +
+        "El amigo que se va, es como un pozo sin fondo\n" +
+        "Que no se vuelve a llenar\n" +
+        "Es como un pozo sin fondo, que no se vuelve a llenar\n" +
+        "\n" +
+        "No te vayas todavía, no te vayas por favor\n" +
+        "No te vayas todavía\n" +
+        "Que hasta la guitarra mía, llora cuando dice adiós", "La canción \"Sevillanas del adiós\" es una sevillana que habla sobre el dolor de la despedida y la nostalgia por los lugares y las personas que dejamos atrás. La letra expresa la tristeza de quien se despide de su tierra y de sus seres queridos, y la esperanza de volver a encontrarse algún día. En este sentido, la canción se convierte en un símbolo de la nostalgia por el pasado y de la esperanza por el futuro, representando el sentimiento de muchos emigrantes que deben dejar atrás su hogar y a sus seres queridos para buscar una vida mejor en otros lugares."),
+    Song("Bamboléo", "Gipsy Kings", "Gipsy Kings", 1987, R.drawable.gipsy_kings, "Ese amor llega así, esta manera\n" +
+            "No tiene la culpa\n" +
+            "Caballo de danza vana\n" +
+            "Porque es muy despreciado por eso\n" +
+            "No te perdondo llorar\n" +
+            "Ese amor llega así, esta manera\n" +
+            "No tiene la culpa\n" +
+            "Amor de compra y venta\n" +
+            "Amor de en el pasado\n" +
+            "Ben-de-lein, ben-de-lein, ben-de-lein\n" +
+            "Bein, ben-de-lein, ben-de-lein\n" +
+            "Bamboleio, bamboleia\n" +
+            "Porque mi vida yo la prefiero vivir así\n" +
+            "Bamboleio, bamboleia\n" +
+            "Porque mi vida yo la prefiero vivir así\n" +
+            "No tenés perdón de Dios\n" +
+            "Tú eres mi vida la fortuna del destino\n" +
+            "En el destino del desamparado\n" +
+            "Lo mismo ya que ayer\n" +
+            "Lo mismo soy yo\n" +
+            "No te encuentro el abandon'\n" +
+            "Era imposible, no te encuentro de verdad\n" +
+            "Por eso un día no encuentro si de nada\n" +
+            "Lo mismo ya que ayer\n" +
+            "Lo pienso en ti\n" +
+            "Bamboleio, bamboleia\n" +
+            "Porque mi vida yo la prefiero vivir así\n" +
+            "Bamboleio, bamboleia\n" +
+            "Porque mi vida yo la prefiero vivir así\n" +
+            "Bamboleio, bamboleia\n" +
+            "Porque mi vida yo la prefiero vivir así\n" +
+            "Bamboleio, bamboleia\n" +
+            "Porque mi vida yo la prefiero vivir así\n" +
+            "Bamboleio, bamboleia\n" +
+            "Porque mi vida yo la prefiero vivir así\n" +
+            "Bamboleio, bamboleia\n" +
+            "Porque mi vida yo la prefiero vivir así\n" +
+            "Bamboleio, bamboleia\n" +
+            "Porque mi vida yo la prefiero vivir así\n" +
+            "Bamboleio, bamboleia\n" +
+            "Porque mi vida yo la prefiero\n" +
+            "Vivir así", "\"Bamboléo\" es una canción con un ritmo alegre y pegajoso que ha sido asociada con la música gitana y la cultura flamenca. La letra de la canción habla de un hombre gitano que canta y baila para su amada, expresando su pasión y deseo por ella. En este sentido, la canción puede interpretarse como un canto al amor y la seducción. Además, \"Bamboléo\" ha sido considerada como un himno de la música latina y ha sido versionada por diversos artistas en todo el mundo, lo que demuestra su impacto cultural y su capacidad para unir a diferentes culturas a través de la música."),
+    Song("El Emigrante", "Paco de Lucái", "Almoraima", 1976, R.drawable.paco_de_lucia, "Instrumental", "\"El Emigrante\" es una canción instrumental que, como muchas otras del flamenco, no tiene letra explícita. Sin embargo, su nombre sugiere que podría haber un sentido simbólico relacionado con la emigración. La guitarra de Paco de Lucía, en su interpretación virtuosa y emotiva, podría evocar la experiencia de la partida, el desarraigo, la nostalgia y la esperanza de quienes se ven obligados a abandonar su hogar en busca de mejores oportunidades. La música flamenca en general ha sido asociada con la cultura gitana, una comunidad que ha sufrido históricamente la discriminación y la marginación, lo que podría agregar otro nivel de significado al tema de la emigración en esta canción."),
+    Song("Te Quiero, Te Quiero", "Rosalia", "Los Ángeles", 2017, R.drawable.rosalia, "[Intro]\n" +
+            "Uh\n" +
+            "\n" +
+            "[Verso]\n" +
+            "Te quiero, te quiero\n" +
+            "De aquí pa' siempre, de ahora en adelante\n" +
+            "Te lo juro por mi mente\n" +
+            "Te quiero, te quiero\n" +
+            "De aquí pa' siempre, de ahora en adelante\n" +
+            "Te lo juro por mi mente\n" +
+            "\n" +
+            "[Pre-Coro]\n" +
+            "Y ahora que estoy tan cerca de ti\n" +
+            "No sé cómo lo voy a decir\n" +
+            "Que me estás haciendo feliz\n" +
+            "Y ya no me quiero ir\n" +
+            "\n" +
+            "[Coro]\n" +
+            "Te quiero, te quiero\n" +
+            "De aquí pa' siempre, de ahora en adelante\n" +
+            "Te lo juro por mi mente\n" +
+            "Te quiero, te quiero\n" +
+            "De aquí pa' siempre, de ahora en adelante\n" +
+            "Te lo juro por mi mente\n" +
+            "\n" +
+            "[Verso]\n" +
+            "Te quiero, te quiero\n" +
+            "De aquí pa' siempre, de ahora en adelante\n" +
+            "Te lo juro por mi mente\n" +
+            "Te quiero, te quiero\n" +
+            "De aquí pa' siempre, de ahora en adelante\n" +
+            "Te lo juro por mi mente\n" +
+            "\n" +
+            "[Pre-Coro]\n" +
+            "Y ahora que estoy tan cerca de ti\n" +
+            "No sé cómo lo voy a decir\n" +
+            "Que me estás haciendo feliz\n" +
+            "Y ya no me quiero ir\n" +
+            "\n" +
+            "[Coro]\n" +
+            "Te quiero, te quiero\n" +
+            "De aquí pa' siempre, de ahora en adelante\n" +
+            "Te lo juro por mi mente\n" +
+            "Te quiero, te quiero\n" +
+            "De aquí pa' siempre, de ahora en adelante\n" +
+            "Te lo juro por mi mente\n" +
+            "\n" +
+            "[Puente]\n" +
+            "Te quiero, te quiero\n" +
+            "De aquí pa' siempre, de ahora en adelante\n" +
+            "Te lo juro por mi mente\n" +
+            "Te quiero, te quiero\n" +
+            "De aquí pa' siempre, de ahora en adelante\n" +
+            "Te lo juro por mi mente\n" +
+            "\n" +
+            "[Outro]\n" +
+            "Uh, te quiero, te quiero.", "\"Te Quiero, Te Quiero\" es una canción en la que Rosalía expresa el amor y la pasión de una manera muy intensa y apasionada. El título de la canción es muy directo y explica claramente el tema central de la canción, que es el amor. Sin embargo, el uso de la repetición en la letra de la canción le da un sentido simbólico más profundo. La repetición de la frase \"te quiero\" sugiere la idea de la insistencia y la perseverancia en el amor, así como la incesante necesidad de demostrar el amor por alguien. Además, la canción también utiliza imágenes poéticas y metáforas para transmitir la emoción del amor y la pasión. En general, la canción es un canto al amor incondicional y la devoción a la persona amada."),
+    Song("Mi niña Lola", "Lola Flores", "La Fabulosa Lola Flores", 1958, R.drawable.lola_flores, "¡Ay mi niña Lola,\n" +
+            "tan chiquitina y presumida!\n" +
+            "Lleva el pelo como el oro,\n" +
+            "y los ojos como la miel.\n" +
+            "\n" +
+            "De tu casa a la mía\n" +
+            "hay un camino muy largo,\n" +
+            "lleno de arena y de piedras\n" +
+            "y de juncos y tomillos.\n" +
+            "\n" +
+            "Anda y no llores,\n" +
+            "no llores, mi vida,\n" +
+            "anda y no llores\n" +
+            "que llorando me matas.\n" +
+            "\n" +
+            "Ay mi niña Lola,\n" +
+            "tan chiquitina y presumida!\n" +
+            "Lleva el pelo como el oro,\n" +
+            "y los ojos como la miel.\n" +
+            "\n" +
+            "De tu casa a la mía\n" +
+            "hay un camino muy largo,\n" +
+            "lleno de arena y de piedras\n" +
+            "y de juncos y tomillos.\n" +
+            "\n" +
+            "Anda y no llores,\n" +
+            "no llores, mi vida,\n" +
+            "anda y no llores\n" +
+            "que llorando me matas.", "\"Mi Niña Lola\" es una canción que evoca la figura de la infancia y la inocencia. A través de la letra, Lola Flores muestra su admiración y cariño por una niña llamada Lola, a quien considera su amiga y confidente. La canción también puede interpretarse como un homenaje a la juventud y a los recuerdos de la propia artista, quien en ese momento tenía ya una carrera consolidada en el mundo del espectáculo. Además, la canción ha sido considerada como una de las más emblemáticas de Lola Flores, y su interpretación se ha convertido en un clásico dentro de la música española."),
+    Song("Por la Mitad", "Ketama", "De Akí a Ketama", 1995, R.drawable.ketama, "Por la mitad se partió\n" +
+            "la relación que había entre los dos\n" +
+            "nunca más volverá a ser\n" +
+            "lo que un día llegó a ser\n" +
+            "\n" +
+            "No hay nada que hacer\n" +
+            "nada que arreglar\n" +
+            "esta historia se acaba aquí\n" +
+            "no te quiero hacer sufrir\n" +
+            "\n" +
+            "Por la mitad se partió\n" +
+            "esta relación que no funcionó\n" +
+            "no me pidas que te dé\n" +
+            "lo que un día no te supe dar\n" +
+            "\n" +
+            "No hay nada que hacer\n" +
+            "nada que arreglar\n" +
+            "esta historia se acaba aquí\n" +
+            "no te quiero hacer sufrir\n" +
+            "\n" +
+            "Quizás algún día\n" +
+            "nos volvamos a encontrar\n" +
+            "y sepamos que esto que hoy acaba\n" +
+            "no volverá a comenzar\n" +
+            "\n" +
+            "Por la mitad se partió\n" +
+            "la relación que había entre los dos\n" +
+            "nunca más volverá a ser\n" +
+            "lo que un día llegó a ser\n" +
+            "\n" +
+            "No hay nada que hacer\n" +
+            "nada que arreglar\n" +
+            "esta historia se acaba aquí\n" +
+            "no te quiero hacer sufrir.", "\"Por la Mitad\" es una canción que habla sobre la experiencia de estar en una relación que no funciona y la necesidad de terminarla. El título de la canción se refiere a la idea de que la relación está \"partida por la mitad\" y que no hay forma de arreglarla. La canción transmite un mensaje de liberación y de dejar ir aquello que no nos hace bien, aunque duela."),
+    Song("Amor de San Juan", "José Mercé", "Sencillo Independiente", 2002, R.drawable.jose_merce, "Amor de San Juan, amor de mi juventud\n" +
+            "en tu casa soñé con mi primer amor.\n" +
+            "Amor de San Juan, amor que se fue de mi vida\n" +
+            "y que nunca jamás volvió.\n" +
+            "\n" +
+            "Aunque muchos años han pasado ya\n" +
+            "nunca he podido olvidar\n" +
+            "aquel amor de San Juan\n" +
+            "que dejó mi alma triste y gris.\n" +
+            "\n" +
+            "Amor de San Juan, hoy que mi pelo es cano\n" +
+            "tengo en el corazón una llama encendida.\n" +
+            "Amor de San Juan, si volvieras a mi lado\n" +
+            "juro que nunca jamás te irías.\n" +
+            "\n" +
+            "Pero sé que todo fue un sueño de juventud\n" +
+            "y que nunca volverás.\n" +
+            "Amor de San Juan, amor que se fue de mi vida\n" +
+            "y que nunca jamás volvió.", "El sentido simbólico de la canción se centra en la nostalgia y el amor perdido. La letra habla de un amor de juventud que se fue y nunca regresó, y cómo esa pérdida sigue afectando al protagonista en su vida adulta. También hay un tema de arrepentimiento y reflexión sobre las decisiones que se toman en la vida y cómo pueden afectar a nuestras relaciones."),
+    Song("Gitana", "Alejandro Fernandez", "Confidencias", 2013, R.drawable.alejandro_fernandez, "Gitana, tú que tienes el sonido de las hojas\n" +
+            "cuando el viento sopla fuerte en la noche\n" +
+            "y tu cuerpo se mueve como la arena\n" +
+            "que se escurre entre los dedos de mis manos.\n" +
+            "\n" +
+            "Gitana, tú que sabes el secreto del hechizo\n" +
+            "y que tienes la luz del sol en tus ojos\n" +
+            "y tu risa suena como el agua\n" +
+            "que corre por el río y se va llevando todo.\n" +
+            "\n" +
+            "Gitana, tú que tienes el alma de la noche\n" +
+            "y que eres como el fuego que quema el corazón\n" +
+            "y que nunca te detienes en el camino\n" +
+            "porque siempre llevas contigo la razón.\n" +
+            "\n" +
+            "Gitana, eres la reina de mi corazón\n" +
+            "y aunque venga el viento fuerte y el huracán\n" +
+            "siempre estaré contigo, mi gitana\n" +
+            "porque eres la dueña de mi vida y de mi amor.\n" +
+            "\n" +
+            "Gitana, eres la reina de mi corazón\n" +
+            "y aunque venga el viento fuerte y el huracán\n" +
+            "siempre estaré contigo, mi gitana\n" +
+            "porque eres la dueña de mi vida y de mi amor.\n" +
+            "\n" +
+            "Gitana, tú que tienes el sonido de las hojas\n" +
+            "cuando el viento sopla fuerte en la noche\n" +
+            "y tu cuerpo se mueve como la arena\n" +
+            "que se escurre entre los dedos de mis manos.", "La canción \"Gitana\" es una oda a la mujer gitana, a su belleza y su misterio. También puede interpretarse como una reflexión sobre la pasión y el amor, así como sobre la libertad y la vida nómada que caracteriza a esta cultura."),
+    Song("Ojos Verdes", "Concha Piquer", "La Copla", 1941, R.drawable.concha_piquer, "Ojos verdes, verdes como la albahaca,\n" +
+            "verdes como el trigo verde\n" +
+            "y el verde, verde limón.\n" +
+            "\n" +
+            "Ojos verdes, verdes con brillo de faca,\n" +
+            "que se han clavaíto en mi corazón.\n" +
+            "\n" +
+            "¡Ay! amor, me han matao,\n" +
+            "me han matao los ojos verdes.\n" +
+            "\n" +
+            "¡Ay! amor, me han matao,\n" +
+            "me han matao los ojos verdes.\n" +
+            "\n" +
+            "Si supieras, mi amor, lo que siento\n" +
+            "cuando te miro a los ojos,\n" +
+            "te reirías, mi bien, de mis amores.\n" +
+            "\n" +
+            "Si supieras, mi amor, lo que siento\n" +
+            "cuando te miro a los ojos,\n" +
+            "te reirías, mi bien, de mis amores.\n" +
+            "\n" +
+            "Ojos verdes, verdes como la albahaca,\n" +
+            "verdes como el trigo verde\n" +
+            "y el verde, verde limón.\n" +
+            "\n" +
+            "Ojos verdes, verdes con brillo de faca,\n" +
+            "que se han clavaíto en mi corazón.\n" +
+            "\n" +
+            "¡Ay! amor, me han matao,\n" +
+            "me han matao los ojos verdes.\n" +
+            "\n" +
+            "¡Ay! amor, me han matao,\n" +
+            "me han matao los ojos verdes.", "\"Ojos Verdes\" es una canción de amor apasionado que describe la belleza y el poder seductor de los ojos verdes de una mujer. La letra también hace referencia a la idea del destino y la inevitabilidad del amor verdadero."),
+    Song("Macarena", "Los del Río", "A mi me gusta", 1993, R.drawable.los_del_rio, "[Coro]\n" +
+            "Dale a tu cuerpo alegría, Macarena\n" +
+            "Que tu cuerpo es pa' darle alegría y cosa buena\n" +
+            "Dale a tu cuerpo alegría, Macarena\n" +
+            "Eh, Macarena, ¡Ay!\n" +
+            "Dale a tu cuerpo alegría, Macarena\n" +
+            "Que tu cuerpo es pa' darle alegría y cosa buena\n" +
+            "Dale a tu cuerpo alegría, Macarena\n" +
+            "Eh, Macarena, ¡Ay!\n" +
+            "\n" +
+            "\n" +
+            "[Verso 1]\n" +
+            "Macarena tiene un novio que se llama\n" +
+            "Que se llama de apellido Vitorino\n" +
+            "Y en la jura de bandera el muchacho\n" +
+            "Se la vio con dos amigos\n" +
+            "Macarena tiene un novio que se llama\n" +
+            "Que se llama de apellido Vitorino\n" +
+            "Y en la jura de bandera el muchacho\n" +
+            "Se la vio con dos amigos\n" +
+            "\n" +
+            "[Coro]\n" +
+            "Dale a tu cuerpo alegría, Macarena\n" +
+            "Que tu cuerpo es pa' darle alegría y cosa buena\n" +
+            "Dale a tu cuerpo alegría, Macarena\n" +
+            "Eh, Macarena, ¡Ay!\n" +
+            "Dale a tu cuerpo alegría, Macarena\n" +
+            "Que tu cuerpo es pa' darle alegría y cosa buena\n" +
+            "Dale a tu cuerpo alegría, Macarena\n" +
+            "Eh, Macarena, ¡Ay!\n" +
+            "\n" +
+            "[Puente]\n" +
+            "Macarena, Macarena, Macarena\n" +
+            "Que tributo a los veranos de Marbella\n" +
+            "Macarena, Macarena, Macarena\n" +
+            "Que te gusta la movida guerrillera ¡Ay!\n" +
+            "\n" +
+            "You might also like\n" +
+            "Like a Prayer\n" +
+            "Madonna\n" +
+            "Birthday\n" +
+            "Katy Perry\n" +
+            "Cake by the Ocean\n" +
+            "DNCE\n" +
+            "\n" +
+            "[Coro]\n" +
+            "Dale a tu cuerpo alegría, Macarena\n" +
+            "Que tu cuerpo es pa' darle alegría y cosa buena\n" +
+            "Dale a tu cuerpo alegría, Macarena\n" +
+            "Eh, Macarena, ¡Ay!\n" +
+            "Dale a tu cuerpo alegría, Macarena\n" +
+            "Que tu cuerpo es pa' darle alegría y cosa buena\n" +
+            "Dale a tu cuerpo alegría, Macarena\n" +
+            "Eh, Macarena, ¡Ay!\n" +
+            "\n" +
+            "[Verso 2]\n" +
+            "Macarena sueña con El Corte Inglés\n" +
+            "Y se compra los modelos más modernos\n" +
+            "Le gustaría vivir en Nueva York\n" +
+            "Y ligar un novio nuevo, ¡Ay!\n" +
+            "Macarena sueña con El Corte Inglés\n" +
+            "Y se compra los modelos más modernos\n" +
+            "Le gustaría vivir en Nueva York\n" +
+            "Y ligar un novio nuevo, ¡Ay!\n" +
+            "\n" +
+            "[Coro]\n" +
+            "Dale a tu cuerpo alegría, Macarena\n" +
+            "Que tu cuerpo es pa' darle alegría y cosa buena\n" +
+            "Dale a tu cuerpo alegría, Macarena\n" +
+            "Eh, Macarena, ¡Ay!\n" +
+            "Dale a tu cuerpo alegría, Macarena\n" +
+            "Que tu cuerpo es pa' darle alegría y cosa buena\n" +
+            "Dale a tu cuerpo alegría, Macarena\n" +
+            "Eh, Macarena, ¡Ay!\n" +
+            "\n" +
+            "\n" +
+            "[Verso 1]\n" +
+            "Macarena tiene un novio que se llama\n" +
+            "Que se llama de apellido Vitorino\n" +
+            "Y en la jura de bandera el muchacho\n" +
+            "Se la vio con dos amigos\n" +
+            "Macarena tiene un novio que se llama\n" +
+            "Que se llama de apellido Vitorino\n" +
+            "Y en la jura de bandera el muchacho\n" +
+            "Se la vio con dos amigos\n" +
+            "\n" +
+            "[Coro]\n" +
+            "Dale a tu cuerpo alegría, Macarena\n" +
+            "Que tu cuerpo es pa' darle alegría y cosa buena\n" +
+            "Dale a tu cuerpo alegría, Macarena\n" +
+            "Eh, Macarena, ¡Ay!\n" +
+            "Dale a tu cuerpo alegría, Macarena\n" +
+            "Que tu cuerpo es pa' darle alegría y cosa buena\n" +
+            "Dale a tu cuerpo alegría, Macarena\n" +
+            "Eh, Macarena, ¡Ay!", "La canción \"Macarena\" se convirtió en un gran éxito a nivel mundial en la década de 1990 y se asocia con el movimiento cultural conocido como \"la Movida\". El ritmo pegadizo y la coreografía popularizada por el grupo español Los del Río, convirtieron esta canción en un fenómeno de la cultura pop. Aunque originalmente la canción habla sobre una mujer llamada Macarena y su relación amorosa, la letra se interpreta como una celebración del espíritu alegre y festivo de la cultura española.")
+
+val songHipHop = listOf(
+        Song("Rapper's Delight", "Sugarhill Gang", "Sugarhill Gang", 1979, R.drawable.sugarhill_gang, "I said a hip hop the hippie the hippie\n" +
+                "To the hip hip hop, a you don't stop\n" +
+                "The rock it to the bang bang boogie\n" +
+                "Say up jumped the boogie\n" +
+                "To the rhythm of the boogie, the beat\n" +
+                "\n" +
+                "Now what you hear is not a test\n" +
+                "I'm rappin' to the beat\n" +
+                "And me, the groove, and my friends\n" +
+                "Are gonna try to move your feet\n" +
+                "\n" +
+                "See, I am Wonder Mike\n" +
+                "And I'd like to say hello\n" +
+                "To the black, to the white, the red, and the brown\n" +
+                "The purple and yellow\n" +
+                "But first, I gotta bang bang\n" +
+                "The boogie to the boogie\n" +
+                "Say up jump the boogie to the bang bang boogie\n" +
+                "Let's rock, you don't stop\n" +
+                "Rock the rhythm that'll make your body rock\n" +
+                "Well so far you've heard my voice\n" +
+                "But I brought two friends along\n" +
+                "And next on the mike is my man Hank\n" +
+                "Come on, Hank, sing that song\n" +
+                "\n" +
+                "Check it out, I'm the C-A-S-A, the N-O-V-A\n" +
+                "And the rest is F-L-Y\n" +
+                "You see, I go by the code of the doctor of the mix\n" +
+                "And these reasons I'll tell you why\n" +
+                "You see I'm six foot one and I'm tons of fun\n" +
+                "And I dress to a T\n" +
+                "You see, I got more clothes than Muhammad Ali\n" +
+                "And I dress so viciously\n" +
+                "I got bodyguards, I got two big cars\n" +
+                "That definitely ain't the wack\n" +
+                "I got a Lincoln Continental and a sunroof Cadillac\n" +
+                "So after school, I take a dip in the pool\n" +
+                "Which is really on the wall\n" +
+                "I got a color TV, so I can see\n" +
+                "The Knicks play basketball\n" +
+                "Hear me talkin' 'bout checkbooks, credit cards\n" +
+                "More money than a sucker could ever spend\n" +
+                "But I wouldn't give a sucker or a bum from the Rucker\n" +
+                "Not a dime 'til I made it again\n" +
+                "\n" +
+                "Everybody go:\n" +
+                "Hotel, motel, what you gonna do today? (say what?)\n" +
+                "You're gonna get a fly girl, gonna get some spankin'\n" +
+                "Drive off in a def OJ\n" +
+                "Everybody go:\n" +
+                "Hotel, motel, holiday inn\n" +
+                "Say if your girl starts actin' up, then you take her friend\n" +
+                "Master Gee, am I mellow?\n" +
+                "It's on you, so what you gonna do?\n" +
+                "\n" +
+                "Well, it's on and on and on and on\n" +
+                "The beat don't stop until the break of dawn\n" +
+                "I said M-A-S, T-E-R, a G with a double E\n" +
+                "I said I go by the unforgettable name\n" +
+                "Of the man they call the Master Gee\n" +
+                "Well, my name is known all over the world\n" +
+                "By all the foxy ladies and the pretty girls\n" +
+                "I'm goin' down in history\n" +
+                "As the baddest rapper there could ever be", "\"Rapper's Delight\" es considerada una de las canciones más importantes en la historia del hip hop. Fue la primera canción de rap en ser un éxito comercial y ayudó a popularizar el género en todo el mundo. La canción también es vista como un ejemplo temprano de la cultura del sampleo, ya que utiliza elementos de canciones de otros artistas, como \"Good Times\" de Chic."),
+        Song("The Message", "Grandmaster Flash & The Furious Five", "The Message", 1982, R.drawable.the_furius_five, "", "La canción es considerada una de las primeras en abordar temas sociales y políticos en la cultura hip hop, y se enfoca en las dificultades de vivir en la pobreza en los barrios marginales de Nueva York en la década de 1980. La letra habla de la falta de oportunidades, la violencia, las drogas y la corrupción policial que afectan a la comunidad negra y latina de la ciudad."),
+        Song("Fight the Power", "Public Enemy", "Fear of a Black Planet", 1989, R.drawable.public_enemy, "", ""Fight the Power" se convirtió en un himno del movimiento por los derechos civiles y la lucha contra el racismo en Estados Unidos. La canción hace referencia a varias injusticias y problemas sociales, incluyendo la brutalidad policial, la opresión racial, la falta de oportunidades económicas y la manipulación de los medios de comunicación."),
+        Song("Nuthin' But a G Thang", "Dr. Dre feat. Snoop Dogg", "The Chronic", 1992, R.drawable.snoop_doog, "", "La canción es un himno al estilo de vida de los "gangstas" de la Costa Oeste de Estados Unidos. El término "G Thang" se refiere a "gangsta thing", es decir, "cosa de gangstas", y la letra de la canción describe la vida de lujo, el dinero, las mujeres y la violencia que caracterizaba a la cultura gangsta en la década de 1990."),
+        Song()
+
 )
 
 
