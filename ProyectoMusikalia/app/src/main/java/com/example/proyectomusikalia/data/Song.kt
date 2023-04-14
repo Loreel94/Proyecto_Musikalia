@@ -8460,10 +8460,190 @@ val songHipHop = listOf(
                 "By all the foxy ladies and the pretty girls\n" +
                 "I'm goin' down in history\n" +
                 "As the baddest rapper there could ever be", "\"Rapper's Delight\" es considerada una de las canciones más importantes en la historia del hip hop. Fue la primera canción de rap en ser un éxito comercial y ayudó a popularizar el género en todo el mundo. La canción también es vista como un ejemplo temprano de la cultura del sampleo, ya que utiliza elementos de canciones de otros artistas, como \"Good Times\" de Chic."),
-        Song("The Message", "Grandmaster Flash & The Furious Five", "The Message", 1982, R.drawable.the_furius_five, "", "La canción es considerada una de las primeras en abordar temas sociales y políticos en la cultura hip hop, y se enfoca en las dificultades de vivir en la pobreza en los barrios marginales de Nueva York en la década de 1980. La letra habla de la falta de oportunidades, la violencia, las drogas y la corrupción policial que afectan a la comunidad negra y latina de la ciudad."),
+        Song("The Message", "Grandmaster Flash & The Furious Five", "The Message", 1982, R.drawable.the_furius_five, "[Intro: Duke Bootee]\n" +
+                "It's like a jungle sometimes\n" +
+                "It makes me wonder how I keep from going under\n" +
+                "It's like a jungle sometimes\n" +
+                "It makes me wonder how I keep from going under\n" +
+                "\n" +
+                "[Verse 1: Melle Mel]\n" +
+                "Broken glass everywhere\n" +
+                "People pissing on the stairs, you know they just don't care\n" +
+                "I can't take the smell, can't take the noise\n" +
+                "Got no money to move out, I guess I got no choice\n" +
+                "Rats in the front room, roaches in the back\n" +
+                "Junkies in the alley with a baseball bat\n" +
+                "I tried to get away, but I couldn't get far\n" +
+                "'Cause a man with a tow truck repossessed my car\n" +
+                "\n" +
+                "[Chorus: Melle Mel]\n" +
+                "Don't push me 'cause I'm close to the edge\n" +
+                "I'm trying not to lose my head\n" +
+                "Ah-huh-huh-huh-huh\n" +
+                "It's like a jungle sometimes\n" +
+                "It makes me wonder how I keep from going under\n" +
+                "\n" +
+                "[Verse 2: Melle Mel]\n" +
+                "Standing on the front stoop, hanging out the window\n" +
+                "Watching all the cars go by, roaring as the breezes blow\n" +
+                "A crazy lady livin' in a bag\n" +
+                "Eating out of garbage pails, used to be a fag hag\n" +
+                "Said she'll dance the tango, skip the light fandango\n" +
+                "A zircon princess, seemed to lost her senses\n" +
+                "Down at the peep show watching all the creeps\n" +
+                "So she can tell her stories to the girls back home\n" +
+                "She went to the city and got so, so saditty\n" +
+                "She had to get a pimp, she couldn't make it on her own\n" +
+                "\n" +
+                "[Chorus: Melle Mel]\n" +
+                "Don't push me 'cause I'm close to the edge\n" +
+                "I'm trying not to lose my head\n" +
+                "Ah-huh-huh-huh-huh\n" +
+                "It's like a jungle sometimes\n" +
+                "It makes me wonder how I keep from going under\n" +
+                "It's like a jungle sometimes\n" +
+                "It makes me wonder how I keep from going under\n" +
+                "\n" +
+                "You might also like\n" +
+                "Paris, Texas\n" +
+                "Lana Del Rey\n" +
+                "Fingertips\n" +
+                "Lana Del Rey\n" +
+                "The Grants\n" +
+                "Lana Del Rey\n" +
+                "\n" +
+                "[Verse 3: Duke Bootee]\n" +
+                "My brother's doing bad, stole my mother's TV\n" +
+                "Says she watches too much, it's just not healthy\n" +
+                "All My Children in the daytime, Dallas at night\n" +
+                "Can't even see the game or the Sugar Ray fight\n" +
+                "The bill collectors, they ring my phone\n" +
+                "And scare my wife when I'm not home\n" +
+                "Got a bum education, double-digit inflation\n" +
+                "Can't take the train to the job, there's a strike at the station\n" +
+                "Neon King Kong standing on my back\n" +
+                "Can't stop to turn around, broke my sacroiliac\n"
+                "A mid-range migraine, cancered membrane\n"
+                "Sometimes I think I'm going insane, I swear I might hijack a plane\n" +
+                "\n" +
+                "[Chorus: Duke Bootee]\n" +
+                "Don't push me 'cause I'm close to the edge\n" +
+                "I'm trying not to lose my head\n" +
+                "It's like a jungle sometimes\n" +
+                "It makes me wonder how I keep from going under\n" +
+                "It's like a jungle sometimes\n" +
+                "It makes me wonder how I keep from going under\n" +
+                "\n" +
+                "[Verse 4: Duke Bootee]\n" +
+                "My son said, 'Daddy, I don't wanna go to school\n" +
+                "'Cause the teacher's a jerk, he must think I'm a fool\n" +
+                "And all the kids smoke reefer, I think it'd be cheaper\n" +
+                "If I just got a job, learned to be a street sweeper\n" +
+                "Or dance to the beat, shuffle my feet\n" +
+                "Wear a shirt and tie and run with the creeps\n" +
+                "'Cause it's all about money, ain't a damn thing funny\n" +
+                "You got to have a con in this land of milk and honey\n" +
+                "They pushed that girl in front of the train\n" +
+                "Took her to the doctor, sewed her arm on again\n" +
+                "Stabbed that man right in his heart\n" +
+                "Gave him a transplant for a brand new start\n" +
+                "I can't walk through the park 'cause it's crazy after dark\n" +
+                "Keep my hand on my gun 'cause they got me on the run\n" +
+                "I feel like a outlaw, broke my last glass jaw\n" +
+                "Hear them say, 'You want some more?' Livin' on a see-saw\n" +
+                "\n" +
+                "[Chorus: Duke Bootee]\n" +
+                "Don't push me 'cause I'm close to the edge\n" +
+                "I'm trying not to lose my head (Say what?)\n" +
+                "It's like a jungle sometimes\n" +
+                "It makes me wonder how I keep from goin' under\n" +
+                "It's like a jungle sometimes\n" +
+                "It makes me wonder how I keep from goin' under\n" +
+                "It's like a jungle sometimes\n" +
+                "It makes me wonder how I keep from goin' under\n" +
+                "It's like a jungle sometimes\n" +
+                "It makes me wonder how I keep from goin' under\n" +
+                "\n" +
+                "[Verse 5: Melle Mel]\n" +
+                "A child is born with no state of mind\n" +
+                "Blind to the ways of mankind\n" +
+                "God is smiling on you, but he's frowning too\n" +
+                "Because only God knows what you'll go through\n" +
+                "You'll grow in the ghetto living second-rate\n" +
+                "And your eyes will sing a song of deep hate\n" +
+                "The places you play and where you stay\n" +
+                "Looks like one great big alleyway\n" +
+                "You'll admire all the number-book takers\n" +
+                "Thugs, pimps and pushers and the big money-makers\n" +
+                "Driving big cars, spending twenties and tens\n" +
+                "And you wanna grow up to be just like them, huh\n" +
+                "Smugglers, scramblers, burglars, gamblers\n" +
+                "Pickpocket peddlers, even panhandlers\n" +
+                "You say, 'I'm cool, huh, I'm no fool'\n" +
+                "But then you wind up droppin' out of high school\n" +
+                "Now you're unemployed, all null and void\n" +
+                "Walking 'round like you're Pretty Boy Floyd\n" +
+                "Turned stick-up kid, but look what you done did\n" +
+                "Got sent up for a eight-year bid\n" +
+                "Now your manhood is took and you're a maytag\n" +
+                "Spend the next two years as a undercover fag\n" +
+                "Being used and abused to serve like hell\n" +
+                "'Til one day you was found hung dead in the cell\n" +
+                "It was plain to see that your life was lost\n" +
+                "You was cold and your body swung back and forth\n" +
+                "But now your eyes sing the sad, sad song\n" +
+                "Of how you lived so fast and died so young, so\n" +
+                "\n" +
+                "[Chorus: Melle Mel]\n" +
+                "Don't push me cause I'm close to the edge\n" +
+                "I'm trying not to lose my head\n" +
+                "Ah-huh-huh-huh-huh\n" +
+                "It's like a jungle sometimes\n" +
+                "It makes me wonder how I keep from going under\n" +
+                "Huh, ah-huh-huh-huh-huh\n" +
+                "It's like a jungle sometimes\n" +
+                "It makes me wonder how I keep from going under\n" +
+                "Huh, ah-huh-huh-huh-huh\n" +
+                "\n" +
+                "[Outro Skit]\n" +
+                "Yo, Mel, you see that girl there?\n" +
+                "Yeah, man (Ooh-ooh)\n" +
+                "Yo, that sound like Cowboy, man\n" +
+                "Cool\n" +
+                "Yo, what's up, Money?\n" +
+                "Yo\n" +
+                "Hey, where's Creole and Rahiem at, man?\n" +
+                "I think they upstairs cooling out\n" +
+                "So what's up for tonight, y'all?\n" +
+                "Yo, we could go down to Fever, man\n" +
+                "Let's go check out Junebug, man\n" +
+                "Ayo, you know that girl Betty?\n" +
+                "Yeah, man\n" +
+                "Her moms got robbed, man\n" +
+                "Not again, man (What?)\n" +
+                "She got hurt bad\n" +
+                "When did this happen? When did it happen?\n" +
+                "What's goin' on?\n" +
+                "Freeze, don't nobody move nothin', y'all know what this is\n" +
+                "What's up?\n" +
+                "Get 'em up, get 'em up, man\n" +
+                "We down with Grandmaster Flash and the Furious Five, man\n" +
+                "Grandmaster Five?\n" +
+                "What is that, a gang?\n" +
+                "No, man\n" +
+                "Just shut—ayy, shut up, I don't wanna hear your mouth\n" +
+                "Shut up\n" +
+                "Excuse me, officer, officer, what's the problem?\n" +
+                "Ain't no—you the problem, you the problem\n" +
+                "Yo, yo, you ain't gotta push me, man\n" +
+                "Get in the car, get in the car\n" +
+                "Get in the God—\n" +
+                "I said, 'Get in the car'\n" +
+                "Why is he doggin' us, man?\n", "La canción es considerada una de las primeras en abordar temas sociales y políticos en la cultura hip hop, y se enfoca en las dificultades de vivir en la pobreza en los barrios marginales de Nueva York en la década de 1980. La letra habla de la falta de oportunidades, la violencia, las drogas y la corrupción policial que afectan a la comunidad negra y latina de la ciudad."),
         Song("Fight the Power", "Public Enemy", "Fear of a Black Planet", 1989, R.drawable.public_enemy, "", ""Fight the Power" se convirtió en un himno del movimiento por los derechos civiles y la lucha contra el racismo en Estados Unidos. La canción hace referencia a varias injusticias y problemas sociales, incluyendo la brutalidad policial, la opresión racial, la falta de oportunidades económicas y la manipulación de los medios de comunicación."),
-        Song("Nuthin' But a G Thang", "Dr. Dre feat. Snoop Dogg", "The Chronic", 1992, R.drawable.snoop_doog, "", "La canción es un himno al estilo de vida de los "gangstas" de la Costa Oeste de Estados Unidos. El término "G Thang" se refiere a "gangsta thing", es decir, "cosa de gangstas", y la letra de la canción describe la vida de lujo, el dinero, las mujeres y la violencia que caracterizaba a la cultura gangsta en la década de 1990."),
-        Song()
+        Song("Nuthin' But a G Thang", "Dr. Dre feat. Snoop Dogg", "The Chronic", 1992, R.drawable.snoop_doog, "", "La canción es un himno al estilo de vida de los 'gangstas' de la Costa Oeste de Estados Unidos. El término 'G Thang' se refiere a 'gangsta thing', es decir, 'cosa de gangstas', y la letra de la canción describe la vida de lujo, el dinero, las mujeres y la violencia que caracterizaba a la cultura gangsta en la década de 1990."),
+        Song("Juicy", "The Notorious B.I.G.", "Ready to Die", 1994, R.drawable.notorious_big, "", ""Juicy" es una canción que habla sobre la vida de The Notorious B.I.G. antes de convertirse en una estrella del hip hop. La letra es una narración autobiográfica en la que Biggie Smalls habla sobre su infancia difícil en Brooklyn, sus primeros intentos en el mundo del rap y su ascenso al estrellato. La canción habla sobre cómo The Notorious B.I.G. pasó de ser un joven pobre y desconocido a un exitoso rapero de la Costa Este, y cómo esto cambió su vida y la de su familia. En general, la canción tiene un tono esperanzador y optimista, y se ha convertido en un himno para aquellos que buscan superar las adversidades y alcanzar el éxito en sus propias vidas."),
+        Song("C.R.E.A.M", "Wu-Tang Clan", "Enter the Wu-Tang (36 Chambers)", 1993, R.drawable.wu_tang_clan, "", "")
 
 )
 
